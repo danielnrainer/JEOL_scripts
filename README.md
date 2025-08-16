@@ -25,8 +25,8 @@ Note: PyJEM must be installed separately as it comes with JEOL TEM systems.
 
 ## Scripts
 
-### JEOL Scripts (`JEOL_scripts/`)
 - `beam_blank.py` - Control beam blanking on JEOL microscopes and Synergy-ED diffractometers
+- `stage_loggr.py` - Logging script (CLI only) for stage positions of JEOL TEMs and Synergy-ED diffractometers
 
 ## Usage
 
